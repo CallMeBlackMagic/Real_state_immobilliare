@@ -1,0 +1,41 @@
+Hello,
+
+I run a real estate business and am looking for a tech person with which to work long term.
+This is the first project, we have many other in the pipeline.
+
+IMPORTANT: I'm looking to work with someone that works in an efficient way and is able to use the AI tools to get the results with as less work as possible.
+
+I want to build a tool to scrape properties on sale from this website: https://www.immobiliare.it/vendita-case/trieste-provincia/?criterio=rilevanza
+
+and 3 other real estate italian websites:
+
+https://www.subito.it/annunci-friuli-venezia-giulia/vendita/appartamenti/trieste/
+https://www.idealista.it/vendita-case/trieste-provincia/
+https://www.casa.it/vendita/residenziale/trieste/
+
+Whom I’m looking for:
+
+Someone with knowledge of Python and using the Beautiful Soup library but also knowledge of the different AI tools that can be used for this project.
+
+Requirements of the project:
+
+1. Data should be scraped for a particular area: Trieste province (trieste-provincia)"Cross section of trieste"
+2. Data should automatically go in a google sheet"connected api between the script and the google spread sheets"
+3. Here is an example of the extraction and the data we need: https://docs.google.com/spreadsheets/d/1OW2tsA7muGPlaq5Mf3RTCInGuliMG90DIqbWGtjbAtg/edit?usp=sharing
+4. The extraction should run every 60 minutes and should update the file just with new properties
+6. The system should recognize if a property is the same from different websites or if it was already in the file and don’t make duplicate lines for the same property. In case some data change, should be able to change it
+5. Alert system: we need an email/telegram alert in case in the file there is a new property that meet certain requirements like for example price is less of 1000 euro/square meter in a certain area
+"dividing the price on the number of meters "
+6. The system should be completely automated and should be able to extract
+
+
+IMPORTANT: We can build the tool in phases, this is how the final project should be made.
+
+I look for a professional who is able to handle all this on his own. yeah body
+ 
+
+
+
+
+
+nd-list__item in-feat__item in-feat__item--main in-realEstateListCard__features--main
